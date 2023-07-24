@@ -33,7 +33,7 @@ El código se encuentra distribuido en diferentes secciones, cada una con sus pr
 Todos los algoritmos se deben presentar en un único programa con un menú. El programa debe
 terminarse cuando el usuario elija la opción 99.
 
-# Operadores
+# 1. Operadores
 1. Calcular el área de un triángulo.
 2. Ingresar dos números por teclado y sumarlos.
 3. Ingresar un número y visualizar el número elevado al cuadrado.
